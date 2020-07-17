@@ -1,0 +1,6 @@
+{
+    "editor.fontFamily": "Lato, Menlo, Monaco, 'Courier New', monospace, Roboto",
+    "editor.fontSize": 14,
+    "debug.console.fontSize": 14,
+    "terminal.integrated.fontSize": 13
+}
